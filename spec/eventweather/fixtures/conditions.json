@@ -1,0 +1,92 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+        }
+  ,     "current_observation": {
+                "image": {
+                "url":"http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png",
+                "title":"Weather Underground",
+                "link":"http://www.wunderground.com"
+                },
+                "display_location": {
+                "full":"Fremont, CA",
+                "city":"Fremont",
+                "state":"CA",
+                "state_name":"California",
+                "country":"US",
+                "country_iso3166":"US",
+                "zip":"94555",
+                "magic":"1",
+                "wmo":"99999",
+                "latitude":"37.57369232",
+                "longitude":"-122.04713440",
+                "elevation":"6.00000000"
+                },
+                "observation_location": {
+                "full":"Newark Lake Area, Newark, California",
+                "city":"Newark Lake Area, Newark",
+                "state":"California",
+                "country":"US",
+                "country_iso3166":"US",
+                "latitude":"37.559193",
+                "longitude":"-122.039001",
+                "elevation":"26 ft"
+                },
+                "estimated": {
+                },
+                "station_id":"KCANEWAR7",
+                "observation_time":"Last Updated on May 13, 4:49 PM PDT",
+                "observation_time_rfc822":"Tue, 13 May 2014 16:49:05 -0700",
+                "observation_epoch":"1400024945",
+                "local_time_rfc822":"Tue, 13 May 2014 16:49:07 -0700",
+                "local_epoch":"1400024947",
+                "local_tz_short":"PDT",
+                "local_tz_long":"America/Los_Angeles",
+                "local_tz_offset":"-0700",
+                "weather":"Clear",
+                "temperature_string":"91.4 F (33.0 C)",
+                "temp_f":91.4,
+                "temp_c":33.0,
+                "relative_humidity":"16%",
+                "wind_string":"From the WSW at 5.8 MPH Gusting to 6.5 MPH",
+                "wind_dir":"WSW",
+                "wind_degrees":248,
+                "wind_mph":5.8,
+                "wind_gust_mph":"6.5",
+                "wind_kph":9.3,
+                "wind_gust_kph":"10.5",
+                "pressure_mb":"1019",
+                "pressure_in":"30.09",
+                "pressure_trend":"-",
+                "dewpoint_string":"38 F (3 C)",
+                "dewpoint_f":38,
+                "dewpoint_c":3,
+                "heat_index_string":"87 F (31 C)",
+                "heat_index_f":87,
+                "heat_index_c":31,
+                "windchill_string":"NA",
+                "windchill_f":"NA",
+                "windchill_c":"NA",
+                "feelslike_string":"87 F (31 C)",
+                "feelslike_f":"87",
+                "feelslike_c":"31",
+                "visibility_mi":"10.0",
+                "visibility_km":"16.1",
+                "solarradiation":"--",
+                "UV":"7","precip_1hr_string":"0.00 in ( 0 mm)",
+                "precip_1hr_in":"0.00",
+                "precip_1hr_metric":" 0",
+                "precip_today_string":"0.00 in (0 mm)",
+                "precip_today_in":"0.00",
+                "precip_today_metric":"0",
+                "icon":"clear",
+                "icon_url":"http://icons-ak.wxug.com/i/c/k/clear.gif",
+                "forecast_url":"http://www.wunderground.com/US/CA/Fremont.html",
+                "history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KCANEWAR7",
+                "ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.559193,-122.039001"
+        }
+}
